@@ -6,9 +6,9 @@
 <p>
 Сборка gulp для front-end. 
 </p>
-<hr>
+
 <h2>Требования</h2>
-<hr>
+
 <ul>
 
 <li> Windows 10 </li>
