@@ -21,15 +21,15 @@
 </ul>
 <h2>Установка</h2>
 <ul>
- <ol> bower install (git bash) <ol>
+ <ol> bower install (git bash) </ol>
  <ol> npm   install </ol>
 </ul>
 
 <h2> Команды</h2>
 
 <ul>
-  <li> gulp dev  (основная) </li>
-  <li> gulp prod  </li>
+  <li>gulp dev  (основная) </li>
+  <li>gulp prod  </li>
 </ul>
 
 <h2>Структра </h2>
