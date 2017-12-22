@@ -20,10 +20,10 @@
 
 </ul>
 <h2>Установка</h2>
-<ul>
- <ol> bower install (git bash) </ol>
- <ol> npm   install </ol>
-</ul>
+<ol>
+ <li> bower install (git bash) </li>
+ <li> npm   install </li>
+</ol>
 
 <h2> Команды</h2>
 
