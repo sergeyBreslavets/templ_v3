@@ -16,6 +16,7 @@
 <li> node 8.9.3 </li>
 <li> git bach </li>
 <li> PowerShell Admin  </li>
+<li> bower</li>
 
 </ul>
 <h2>Установка</h2>
