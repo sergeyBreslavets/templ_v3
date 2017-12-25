@@ -11,7 +11,7 @@
 
 <ul>
 
-<li> Windows 10 </li>
+
 <li> nmp 3.10.7 </li>
 <li> node 8.9.3 </li>
 <li> git bach </li>
